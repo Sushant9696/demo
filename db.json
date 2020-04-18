@@ -1,14 +1,63 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+export const directory = [
+  {
+		firstName: 'Nicholas Ray',
+		lastName: 'Munjal',
+		position: 'Business Analyst',
+		location: 'Pune',
+		country: 'India',
+		mobileNumber: '7263957058',
+		index: 1,
+		thumbnail: 'https://randomuser.me/api/portraits/thumb/men/20.jpg'
+	},
+	{
+		firstName: 'Megan',
+		lastName: 'Mackay',
+		position: 'iOS DEveloper',
+		location: 'London',
+		country: 'UK',
+		mobileNumber: '7263957058',
+		index: 2,
+		thumbnail: 'https://randomuser.me/api/portraits/thumb/women/2.jpg'
+	},
+	{
+		firstName: 'Arron',
+		lastName: 'Young',
+		position: 'Android Developer',
+		location: 'Banglore',
+		country: 'India',
+		mobileNumber: '7263957058',
+		index: 3,
+		thumbnail: 'https://randomuser.me/api/portraits/thumb/men/48.jpg'
+	},
+	{
+		firstName: 'Jimmie',
+		lastName: 'Freeman',
+		position: 'QA Analyst',
+		location: 'New York',
+		country: 'USA',
+		mobileNumber: '7263957058',
+		index: 4,
+		thumbnail: 'https://randomuser.me/api/portraits/thumb/men/7.jpg'
+	},
+
+	{
+		firstName: 'Anatol',
+		lastName: 'Tröger',
+		position: 'Java Developer',
+		location: 'New York',
+		country: 'USA',
+		mobileNumber: '7263957058',
+		index: 5,
+		thumbnail: 'https://randomuser.me/api/portraits/thumb/men/81.jpg'
+	},
+	{
+		firstName: 'Madison',
+		lastName: 'Mitchell',
+		position: '.Net Developer',
+		location: 'Madrid',
+		country: 'Spain',
+		mobileNumber: '7263957058',
+		index: 6,
+		thumbnail: 'https://randomuser.me/api/portraits/thumb/women/28.jpg'
+	}
+];
