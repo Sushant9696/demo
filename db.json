@@ -18,7 +18,7 @@
 			"country": "India",
 			"facility": "HQ",
 			"mobileNumber": "2222222222",
-			"index": 1,
+			"index": 2,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
 		},
 		{
@@ -29,7 +29,7 @@
 			"country": "UK",
 			"facility": "HQ",
 			"mobileNumber": "3333333333",
-			"index": 2,
+			"index": 3,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
 		},
 		{
@@ -40,7 +40,7 @@
 			"country": "India",
 			"facility": "Avance",
 			"mobileNumber": "44444444444",
-			"index": 3,
+			"index": 4,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
 		},
 		{
@@ -51,7 +51,7 @@
 			"country": "USA",
 			"facility": "SEZ",
 			"mobileNumber": "55555555555",
-			"index": 4,
+			"index": 5,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
 		},
 
@@ -63,7 +63,7 @@
 			"country": "USA",
 			"mobileNumber": "666666666666",
 			"facility": "IT Park",
-			"index": 5,
+			"index": 6,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
 		},
 		{
@@ -74,7 +74,7 @@
 			"country": "Spain",
 			"mobileNumber": "777777777777",
 			"facility": "SEZ",
-			"index": 6,
+			"index": 7,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
 		}
 	],
@@ -97,7 +97,7 @@
 			"country": "India",
 			"facility": "HQ",
 			"mobileNumber": "2222222222",
-			"index": 1,
+			"index": 2,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
 		}
 	],
