@@ -6,7 +6,7 @@
 			"location": "Pune",
 			"country": "India",
 			"facility": "HQ",
-			"mobileNumber": "1111111111",
+			"mobileNumber": "111",
 			"index": 1,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
 		},
@@ -17,7 +17,7 @@
 			"location": "Pune",
 			"country": "India",
 			"facility": "HQ",
-			"mobileNumber": "2222222222",
+			"mobileNumber": "222",
 			"index": 2,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
 		},
@@ -28,7 +28,7 @@
 			"location": "London",
 			"country": "UK",
 			"facility": "HQ",
-			"mobileNumber": "3333333333",
+			"mobileNumber": "333",
 			"index": 3,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
 		},
@@ -39,7 +39,7 @@
 			"location": "Banglore",
 			"country": "India",
 			"facility": "Avance",
-			"mobileNumber": "44444444444",
+			"mobileNumber": "444",
 			"index": 4,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
 		},
@@ -50,7 +50,7 @@
 			"location": "New York",
 			"country": "USA",
 			"facility": "SEZ",
-			"mobileNumber": "55555555555",
+			"mobileNumber": "555",
 			"index": 5,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
 		},
@@ -61,7 +61,7 @@
 			"position": "Java Developer",
 			"location": "New York",
 			"country": "USA",
-			"mobileNumber": "666666666666",
+			"mobileNumber": "666",
 			"facility": "IT Park",
 			"index": 6,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
@@ -72,7 +72,7 @@
 			"position": ".Net Developer",
 			"location": "Madrid",
 			"country": "Spain",
-			"mobileNumber": "777777777777",
+			"mobileNumber": "777",
 			"facility": "SEZ",
 			"index": 7,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
@@ -85,7 +85,7 @@
 			"location": "Pune",
 			"country": "India",
 			"facility": "HQ",
-			"mobileNumber": "1111111111",
+			"mobileNumber": "111",
 			"index": 1,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
 		},
@@ -96,7 +96,7 @@
 			"location": "Pune",
 			"country": "India",
 			"facility": "HQ",
-			"mobileNumber": "2222222222",
+			"mobileNumber": "222",
 			"index": 2,
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
 		}
