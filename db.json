@@ -1,197 +1,162 @@
 {
-	"contactList": [{
-			"firstName": "Aman",
-			"lastName": "Munjal",
-			"position": "Business Analyst",
-			"location": "Pune",
-			"country": "India",
-			"facility": "HQ",
-			"mobileNumber": "111",
-			"index": 1,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
-		},
-		{
-			"firstName": "Nicholas",
-			"lastName": "Ray",
-			"position": "Business Analyst",
-			"location": "Pune",
-			"country": "India",
-			"facility": "HQ",
-			"mobileNumber": "222",
-			"index": 2,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
-		},
-		{
-			"firstName": "Megan",
-			"lastName": "Mackay",
-			"position": "iOS Developer",
-			"location": "London",
-			"country": "UK",
-			"facility": "HQ",
-			"mobileNumber": "333",
-			"index": 3,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
-		},
-		{
-			"firstName": "Arron",
-			"lastName": "Young",
-			"position": "Android Developer",
-			"location": "Banglore",
-			"country": "India",
-			"facility": "Avance",
-			"mobileNumber": "444",
-			"index": 4,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-		},
-		{
-			"firstName": "Jimmie",
-			"lastName": "Freeman",
-			"position": "QA Analyst",
-			"location": "New York",
-			"country": "USA",
-			"facility": "SEZ",
-			"mobileNumber": "555",
-			"index": 5,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
-		},
-
-		{
-			"firstName": "Anatol",
-			"lastName": "Tröger",
-			"position": "Java Developer",
-			"location": "New York",
-			"country": "USA",
-			"mobileNumber": "666",
-			"facility": "IT Park",
-			"index": 6,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
-		},
-		{
-			"firstName": "Madison",
-			"lastName": "Mitchell",
-			"position": ".Net Developer",
-			"location": "Madrid",
-			"country": "Spain",
-			"mobileNumber": "777",
-			"facility": "SEZ",
-			"index": 7,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
-		}
-	],
-	"filteredContacts": [{
-			"firstName": "Aman",
-			"lastName": "Munjal",
-			"position": "Business Analyst",
-			"location": "Pune",
-			"country": "India",
-			"facility": "HQ",
-			"mobileNumber": "111",
-			"index": 1,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
-		},
-		{
-			"firstName": "Nicholas",
-			"lastName": "Ray",
-			"position": "Business Analyst",
-			"location": "Pune",
-			"country": "India",
-			"facility": "HQ",
-			"mobileNumber": "222",
-			"index": 2,
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
-		}
-	],
-	"positions": [{
-			"id": "1",
-			"name": "Admin"
-		},
-		{
-			"id": "2",
-			"name": "Business Analyst"
-		},
-		{
-			"id": "3",
-			"name": "iOS Developer"
-		},
-		{
-			"id": "4",
-			"name": "Android Developer"
-		},
-		{
-			"id": "5",
-			"name": "QA Analyst"
-		},
-		{
-			"id": "6",
-			"name": "Java Developer"
-		},
-		{
-			"id": "7",
-			"name": ".Net Developer"
-		}
-	],
-	"countries": [{
-			"id": "1",
-			"name": "Argentina"
-		},
-		{
-			"id": "2",
-			"name": "India"
-		},
-		{
-			"id": "3",
-			"name": "Spain"
-		},
-		{
-			"id": "4",
-			"name": "USA"
-		},
-		{
-			"id": "5",
-			"name": "UK"
-		}
-	],
-	"cities": [{
-			"id": "1",
-			"name": "Banglore"
-		},
-		{
-			"id": "2",
-			"name": "Pune"
-		},
-		{
-			"id": "3",
-			"name": "New York"
-		},
-		{
-			"id": "4",
-			"name": "London"
-		},
-		{
-			"id": "5",
-			"name": "Madrid"
-		}
-	],
-
-	"facilities": [{
-			"id": "1",
-			"name": "Avance"
-		},
-		{
-			"id": "2",
-			"name": "Blue Ridge"
-		},
-		{
-			"id": "3",
-			"name": "IT Park"
-		},
-		{
-			"id": "4",
-			"name": "SEZ"
-		},
-		{
-			"id": "5",
-			"name": "HQ"
-		}
-	]
+     "contactList": [{
+             "firstName": "Nicholas Ray",
+             "firstName": "Nicholas",
+             "lastName": "Munjal",
+             "position": "Business Analyst",
+             "location": "Pune",
+            "country": "India",
+            "facility": "HQ",
+            "mobileNumber": "7263957058",
+            "index": 1,
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+        },
+        {
+            "firstName": "Megan",
+            "lastName": "Mackay",
+            "position": "iOS Developer",
+            "location": "London",
+            "country": "UK",
+            "facility": "HQ",
+            "mobileNumber": "7263957058",
+            "index": 2,
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+        },
+        {
+            "firstName": "Arron",
+            "lastName": "Young",
+            "position": "Android Developer",
+            "location": "Banglore",
+            "country": "India",
+            "facility": "Avance",
+            "mobileNumber": "7263957058",
+            "index": 3,
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+        },
+        {
+            "firstName": "Jimmie",
+            "lastName": "Freeman",
+            "position": "QA Analyst",
+            "location": "New York",
+            "country": "USA",
+            "facility": "SEZ",
+            "mobileNumber": "7263957058",
+            "index": 4,
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+        },
+        {
+            "firstName": "Anatol",
+            "lastName": "Tröger",
+            "position": "Java Developer",
+            "location": "New York",
+            "country": "USA",
+            "mobileNumber": "7263957058",
+            "facility": "IT Park",
+            "index": 5,
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+        },
+        {
+            "firstName": "Madison",
+            "lastName": "Mitchell",
+            "position": ".Net Developer",
+            "location": "Madrid",
+            "country": "Spain",
+            "mobileNumber": "7263957058",
+            "facility": "SEZ",
+            "index": 6,
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+        }
+    ],
+    "positions": [{
+            "id": "1",
+            "name": "Admin"
+        },
+        {
+            "id": "2",
+            "name": "Business Analyst"
+        },
+        {
+            "id": "3",
+            "name": "iOS Developer"
+        },
+        {
+            "id": "4",
+            "name": "Android Developer"
+        },
+        {
+            "id": "5",
+            "name": "QA Analyst"
+        },
+        {
+            "id": "6",
+            "name": "Java Developer"
+        },
+        {
+            "id": "7",
+            "name": ".Net Developer"
+        }
+    ],
+    "countries": [{
+            "id": "1",
+            "name": "Argentina"
+        },
+        {
+            "id": "2",
+            "name": "India"
+        },
+        {
+            "id": "3",
+            "name": "Spain"
+        },
+        {
+            "id": "4",
+            "name": "USA"
+        },
+        {
+            "id": "5",
+            "name": "UK"
+        }
+    ],
+    "cities": [{
+            "id": "1",
+            "name": "Banglore"
+        },
+        {
+            "id": "2",
+            "name": "Pune"
+        },
+        {
+            "id": "3",
+            "name": "New York"
+        },
+        {
+            "id": "4",
+            "name": "London"
+        },
+        {
+            "id": "5",
+            "name": "Madrid"
+        }
+    ],
+    "facilities": [{
+            "id": "1",
+            "name": "Avance"
+        },
+        {
+            "id": "2",
+            "name": "Blue Ridge"
+        },
+        {
+            "id": "3",
+            "name": "IT Park"
+        },
+        {
+            "id": "4",
+            "name": "SEZ"
+        },
+        {
+            "id": "5",
+            "name": "HQ"
+        }
+    ]
 }
