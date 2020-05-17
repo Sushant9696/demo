@@ -66,6 +66,30 @@
 			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
 		}
 	],
+	"filteredList": [{
+			"firstName": "Nicholas Ray",
+			"lastName": "Ray",
+			"position": "Business Analyst",
+			"location": "Pune",
+			"country": "India",
+			"facility": "HQ",
+			"mobileNumber": "9898989898",
+			"index": 1,
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+		},
+		{
+			"firstName": "Megan",
+			"lastName": "Mackay",
+			"position": "iOS Developer",
+			"location": "London",
+			"country": "UK",
+			"facility": "HQ",
+			"mobileNumber": "9797979797",
+			"index": 2,
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+		}
+	],
+	
 	"positions": [{
 			"id": "1",
 			"name": "Admin"
